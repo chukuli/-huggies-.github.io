@@ -1,2 +1,2 @@
-# -huggies-.github.io
+# huggies.github.io
 Information Visualization
